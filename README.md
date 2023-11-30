@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minty26
-- 👀 i'm a 14 year old pro prgrammer and game developer
-- 🌱 idk what i'm learning tbh
-- 💞️ I’m looking to collaborate on a ue5 game 
+- 👀 I'm a 14 year old pro prgrammer and game developer
+- 🌱 I'm making a Python Repository with all main features of Python that I know
+- 💞️ I'm looking to make a 3d game in UE5
 - 📫 idk how you are meant to reach me
 - follow me on replit please because this youtuber commented on my ChatGPT clone and called it a scam :(
 <!---
